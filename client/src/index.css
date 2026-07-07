@@ -1,0 +1,3 @@
+/* This single line pulls in all of Tailwind's utility classes.
+   In Tailwind v4 that's all the setup the CSS needs. */
+@import "tailwindcss";

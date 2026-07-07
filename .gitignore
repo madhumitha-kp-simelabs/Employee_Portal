@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.log
+.env
+
+# Uploaded files — don't commit user uploads
+server/uploads/
+
+# Google service-account key — NEVER commit credentials
+server/google-credentials.json
+
+# TypeScript build cache
+*.tsbuildinfo
